@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/blog_page",
+    "prod_uri":"mysql://root:@localhost/blog_page",
+    "blog_name": "SparkScribbles",
+    "tag_line": "Scribble down your ideas",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hey this is Dikshant. Trying my hands on webdev, Mail me any suggestions, would like to incorporate them in my project.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"root",
+    "admin_password": "",
+    "upload_location":"C:\\Users\\Ishita\\PycharmProjects\\Flask-tut\\static"
+  }
+
+}
