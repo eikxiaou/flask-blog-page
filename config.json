@@ -3,7 +3,7 @@
   {
     "local_server":"True",
     "local_uri": "mysql://root:@localhost/blog_page",
-    "prod_uri":"postgressql://root:v5EwfvVEYJf0xJiis6oS5i6rG9TGufyT@dpg-cn9pn8f79t8c73bcu570-a.oregon-postgres.render.com/blog_page_pk76",
+    "prod_uri":"postgresql://root:v5EwfvVEYJf0xJiis6oS5i6rG9TGufyT@dpg-cn9pn8f79t8c73bcu570-a.oregon-postgres.render.com/blog_page_pk76",
     "blog_name": "SparkScribbles",
     "tag_line": "Scribble down your ideas",
     "gmail-user":"your-email@gmail.com",
